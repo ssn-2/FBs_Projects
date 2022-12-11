@@ -5,7 +5,7 @@ This was done by "Bermuda" and "RP" I do not take credit for their work.
 
 Simply uploading to GitHub for others to use and see.
 
-- https://t.me/tcpsyn
+- https://t.me/tcpsyn & https://spacey.sellix.io
 
 Original Readme.md:
 
